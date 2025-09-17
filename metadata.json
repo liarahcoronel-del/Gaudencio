@@ -1,0 +1,7 @@
+{
+  "name": "DocuTrack AI",
+  "description": "A modern document tracking system powered by AI to help you manage, track, and summarize your documents with ease. Add, edit, and search for documents, and leverage AI to generate concise summaries automatically.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
